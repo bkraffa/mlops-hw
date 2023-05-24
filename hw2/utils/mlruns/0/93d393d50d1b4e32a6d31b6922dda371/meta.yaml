@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bc/homeworks_mlopszoomcamp/hw2/utils/mlruns/0/93d393d50d1b4e32a6d31b6922dda371/artifacts
+end_time: 1684900578629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93d393d50d1b4e32a6d31b6922dda371
+run_name: dapper-chimp-505
+run_uuid: 93d393d50d1b4e32a6d31b6922dda371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684900578623
+status: 4
+tags: []
+user_id: bc

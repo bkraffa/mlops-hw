@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bc/homeworks_mlopszoomcamp/hw2/utils/mlruns/0/75a5f9a27a9049f69ded1ac5b237bb1b/artifacts
+end_time: 1684900540708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75a5f9a27a9049f69ded1ac5b237bb1b
+run_name: bustling-horse-439
+run_uuid: 75a5f9a27a9049f69ded1ac5b237bb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684900540703
+status: 4
+tags: []
+user_id: bc

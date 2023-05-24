@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bc/homeworks_mlopszoomcamp/hw2/utils/mlruns/0/69a3a233f32e4ceaa352fb7febe55fa4/artifacts
+end_time: 1684900657156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69a3a233f32e4ceaa352fb7febe55fa4
+run_name: spiffy-rook-474
+run_uuid: 69a3a233f32e4ceaa352fb7febe55fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684900627121
+status: 3
+tags: []
+user_id: bc

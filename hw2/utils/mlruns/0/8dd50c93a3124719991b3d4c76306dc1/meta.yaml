@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bc/homeworks_mlopszoomcamp/hw2/utils/mlruns/0/8dd50c93a3124719991b3d4c76306dc1/artifacts
+end_time: 1684900458202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dd50c93a3124719991b3d4c76306dc1
+run_name: suave-chimp-79
+run_uuid: 8dd50c93a3124719991b3d4c76306dc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684900458195
+status: 4
+tags: []
+user_id: bc
